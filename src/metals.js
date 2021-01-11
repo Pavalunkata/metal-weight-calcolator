@@ -1,0 +1,1 @@
+//stomana aluminii med mesing neryjdavejka olovo bronz
