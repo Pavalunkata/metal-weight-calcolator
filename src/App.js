@@ -13,7 +13,7 @@ function App() {
 
   //Adding state
 const [figures, setFigures] = useState(data());
-const [currentFigure, setCurrentFigure] = useState(figures[2])
+const [currentFigure, setCurrentFigure] = useState(figures[0])
 
   return (
     <div className="calc">
