@@ -12,3 +12,14 @@
         padding: 3rem 1rem 1rem 1rem;
     }
 }
+input[type="text"]:focus {
+    outline: none;
+    border: none;
+}
+.input{
+    border: none;
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}

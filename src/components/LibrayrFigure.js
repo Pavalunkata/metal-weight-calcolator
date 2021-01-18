@@ -8,7 +8,7 @@ const LibraryFigure = ({figure, figures, id, setFigures, currentFigure, setCurre
         setCurrentFigure(selectoedFigure[0])
         // Adding accent to selected figure
         const accentFigure = figures.map((figure) =>{
-             if(figure.id === currentFigure.id){
+             if(figure.id === id){
                 return {
                     ...figure,
                     active: true,
